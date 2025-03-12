@@ -37,4 +37,6 @@ Isso fará com que o Zsh seja o shell padrão em vez do Bash.
 ### 5. Reiniciar o terminal
 Feche e abra o terminal novamente para que o Zsh seja carregado como padrão.
 
+## **(Opcional) Instalar o Oh My Zsh**
+O Oh My Zsh é um framework que adiciona temas e plugins ao Zsh, tornando-o mais personalizável.
 
