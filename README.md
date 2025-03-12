@@ -40,3 +40,24 @@ Feche e abra o terminal novamente para que o Zsh seja carregado como padrão.
 ## **(Opcional) Instalar o Oh My Zsh**
 O Oh My Zsh é um framework que adiciona temas e plugins ao Zsh, tornando-o mais personalizável.
 
+### 1. Instalar dependências necessárias
+```bash
+sudo apt install curl git -y
+````
+
+### 2. Baixar e instalar o Oh My Zsh
+```bash
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+```
+
+### 3. Editar o arquivo de configuração do Zsh
+Após a instalação, edite o arquivo de configuração para personalizar temas e plugins:
+```bash
+nano ~/.zshrc
+```
+
+### 4. Recarregar o Zsh para aplicar mudanças
+```bash
+source ~/.zshrc
+```
+
