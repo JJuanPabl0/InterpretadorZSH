@@ -10,3 +10,4 @@ O **Zsh (Z Shell)** é um shell de linha de comando avançado que oferece mais r
 
 ---
 
+## Como instalar o Zsh no Ubuntu  
