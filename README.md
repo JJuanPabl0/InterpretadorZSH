@@ -61,3 +61,4 @@ nano ~/.zshrc
 source ~/.zshrc
 ```
 
+Agora seu terminal está com o Zsh funcionando e, se desejar, com o Oh My Zsh para melhorar a experiência! 🚀
